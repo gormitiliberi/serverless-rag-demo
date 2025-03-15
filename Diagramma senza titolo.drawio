@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.1.1">
   <diagram name="Pagina-1" id="xXN1keMJTsimZvRvfmzJ">
-    <mxGraphModel dx="2936" dy="1222" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2620" dy="943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -191,8 +191,8 @@
             <mxPoint x="-78" y="78" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oTNWS6xz9wXN6uvySlti-56" value="RACCOGLIERE CALL LOGS +&amp;nbsp; &lt;br&gt;ESCALATION &lt;br&gt;TO&lt;br&gt;2ND LEVEL" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#990000;" vertex="1" parent="1">
-          <mxGeometry x="50" y="180" width="100" height="100" as="geometry" />
+        <mxCell id="oTNWS6xz9wXN6uvySlti-56" value="RACCOGLIERE CALL LOGS + DISPLAY DISPOSITIVO DURANTE UNA CHIAMATA&amp;nbsp; &lt;br&gt;ESCALATION &lt;br&gt;TO&lt;br&gt;2ND LEVEL" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="30" y="200" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="oTNWS6xz9wXN6uvySlti-57" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="oTNWS6xz9wXN6uvySlti-61">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -249,6 +249,9 @@
         </mxCell>
         <mxCell id="oTNWS6xz9wXN6uvySlti-69" value="RACCOGLIERE CALLS LOG&lt;br&gt;ESCALATION &lt;br&gt;TO&lt;br&gt;2ND LEVEL" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#990000;" vertex="1" parent="1">
           <mxGeometry x="70" y="650" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="oTNWS6xz9wXN6uvySlti-70" value="FORNIRE PARAMETRI FIREWALL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="625" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
