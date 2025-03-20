@@ -275,17 +275,6 @@
             <mxPoint x="4" y="-23" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HidZqeDaJN0wGdAQT4S1-3" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-130" y="850" as="sourcePoint" />
-            <mxPoint x="-197.5" y="745" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HidZqeDaJN0wGdAQT4S1-8" value="SOFTPHON E" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="HidZqeDaJN0wGdAQT4S1-3" vertex="1" connectable="0">
-          <mxGeometry x="-0.1473" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="HidZqeDaJN0wGdAQT4S1-4" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-20" y="840" as="sourcePoint" />
