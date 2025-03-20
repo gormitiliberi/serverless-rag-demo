@@ -350,7 +350,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HidZqeDaJN0wGdAQT4S1-20" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="HidZqeDaJN0wGdAQT4S1-20" value="SWITCH OFF WIFI HANDLER" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="-363.01" y="1060" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HidZqeDaJN0wGdAQT4S1-21" value="" style="endArrow=none;html=1;rounded=0;entryX=0.972;entryY=0.775;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
@@ -408,6 +408,34 @@
         </mxCell>
         <mxCell id="e3faSNz6x6QTLMcB8ye6-2" value="RACCOGLIERE CALLS LOG&lt;br&gt;ESCALATION &lt;br&gt;TO&lt;br&gt;2ND LEVEL" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#990000;" vertex="1" parent="1">
           <mxGeometry x="-410" y="1180" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="e3faSNz6x6QTLMcB8ye6-3" value="RACCOGLIERE CALLS LOG&lt;br&gt;ESCALATION &lt;br&gt;TO&lt;br&gt;2ND LEVEL" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#990000;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="1040" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="e3faSNz6x6QTLMcB8ye6-6" value="" style="endArrow=none;html=1;rounded=0;exitX=0.6;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="e3faSNz6x6QTLMcB8ye6-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-320" y="1190" as="sourcePoint" />
+            <mxPoint x="-335" y="1140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e3faSNz6x6QTLMcB8ye6-7" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;NO&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="e3faSNz6x6QTLMcB8ye6-6">
+          <mxGeometry x="-0.0697" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e3faSNz6x6QTLMcB8ye6-8" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="HidZqeDaJN0wGdAQT4S1-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-260" y="1190" as="sourcePoint" />
+            <mxPoint x="-230" y="1169" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e3faSNz6x6QTLMcB8ye6-9" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;YES&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="e3faSNz6x6QTLMcB8ye6-8">
+          <mxGeometry x="0.034" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e3faSNz6x6QTLMcB8ye6-10" value="CONTACT NETWORK INFRASTRUCTURE HANDLER" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-290" y="1190" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
